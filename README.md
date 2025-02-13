@@ -96,7 +96,7 @@ The final model achieved a **Mean Absolute Percentage Error (MAPE) of 29.7** usi
 This project demonstrates the potential for using machine learning techniques to predict real estate prices accurately with structured data. We achieved meaningful results by investigating feature importance and modeling techniques, and we are planning further steps to incorporate visual data and improve the model's precision.
 
 ## Acknowledgments
-We would like to thank **Tony Bonnaire** for their invaluable guidance and support throughout this project. Their insights were essential for shaping our approach and achieving the final results.
+We would like to thank **Tony Bonnaire** for his invaluable guidance and support throughout this project. His insights were essential for shaping our approach and achieving the final results.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
