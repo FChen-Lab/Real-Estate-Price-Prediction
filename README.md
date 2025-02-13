@@ -6,15 +6,16 @@ This repository contains the code and resources for the **Real Estate Price Pred
 - **Achieved a Mean Absolute Percentage Error (MAPE) score of 29.7**, using tabular data alone (without incorporating photos).
 
 ## Table of Contents
-- [Project Description](#project-description)
-- [Data Description](#data-description)
-- [Objectives](#objectives)
-- [Approach](#approach)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Results & Interpretability](#results--interpretability)
-- [Next Steps](#next-steps)
-- [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
+1. [Project Description](#project-description)
+2. [Data Description](#data-description)
+3. [Objectives](#objectives)
+4. [Approach](#approach)
+5. [Evaluation Metrics](#evaluation-metrics)
+6. [Results & Interpretability](#results--interpretability)
+7. [Next Steps](#next-steps)
+8. [Conclusion](#conclusion)
+9. [Acknowledgments](#acknowledgments)
+10. [Contributing](#contributing)
 
 ## Project Description
 
@@ -78,12 +79,7 @@ We evaluated the performance of the regression models using the following metric
 
 - **Mean Absolute Percentage Error (MAPE)**: Measures the accuracy of the model by calculating the percentage difference between predicted and actual values.
   - **MAPE**: Achieved a score of **29.7** with tabular data alone.
-  
-- **R² Score**: Measures the proportion of variance explained by the model, indicating how well the model fits the data.
-
-- **Root Mean Squared Error (RMSE)**: Provides the magnitude of error in terms of the actual value, penalizing larger errors more than smaller ones.
-
-- **Feature Importance**: Helps us understand which features were most influential in predicting property prices.
+  - **Feature Importance**: Helps us understand which features were most influential in predicting property prices.
 
 ## Results & Interpretability
 
@@ -101,3 +97,21 @@ This project demonstrates the potential for using machine learning techniques to
 
 ## Acknowledgments
 We would like to thank **Tony Bonnaire** for their invaluable guidance and support throughout this project. Their insights were essential for shaping our approach and achieving the final results.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch** for your feature or bugfix:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. **Commit your changes**:
+    ```bash
+    git commit -m "Add your commit message here"
+    ```
+4. **Push to the branch**:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. **Open a pull request** and describe your changes.
